@@ -21,6 +21,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/chirukori/LEET-CODE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -28,4 +29,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/chirukori/LEET-CODE/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/chirukori/LEET-CODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
