@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
+| [0228-summary-ranges](https://github.com/chirukori/LEET-CODE/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
