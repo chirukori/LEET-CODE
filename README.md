@@ -11,6 +11,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/chirukori/LEET-CODE/tree/master/0086-partition-list) |
+| [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/chirukori/LEET-CODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -88,4 +91,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
