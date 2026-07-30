@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/chirukori/LEET-CODE/tree/master/0086-partition-list) |
 ## Two Pointers
 |  |
@@ -75,4 +76,16 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
