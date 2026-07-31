@@ -18,6 +18,7 @@
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0228-summary-ranges](https://github.com/chirukori/LEET-CODE/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chirukori/LEET-CODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
@@ -37,6 +38,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/chirukori/LEET-CODE/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chirukori/LEET-CODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -47,6 +49,7 @@
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chirukori/LEET-CODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/chirukori/LEET-CODE/tree/master/2104-sum-of-subarray-ranges) |
