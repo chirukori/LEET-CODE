@@ -26,6 +26,7 @@
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/chirukori/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/chirukori/LEET-CODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
+| [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -149,4 +151,20 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/chirukori/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
