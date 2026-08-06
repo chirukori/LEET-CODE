@@ -29,6 +29,7 @@
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/chirukori/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chirukori/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/chirukori/LEET-CODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -39,6 +40,7 @@
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/chirukori/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0239-sliding-window-maximum](https://github.com/chirukori/LEET-CODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirukori/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/chirukori/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chirukori/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
@@ -156,6 +159,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/chirukori/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chirukori/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
