@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/chirukori/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/chirukori/LEET-CODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -36,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirukori/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirukori/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/chirukori/LEET-CODE/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/chirukori/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
