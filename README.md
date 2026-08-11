@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chirukori/LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
+| [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
 | [0228-summary-ranges](https://github.com/chirukori/LEET-CODE/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/chirukori/LEET-CODE/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirukori/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chirukori/LEET-CODE/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirukori/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
@@ -99,6 +101,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirukori/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/chirukori/LEET-CODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/chirukori/LEET-CODE/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirukori/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chirukori/LEET-CODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -107,6 +110,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
+| [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -214,4 +218,16 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/chirukori/LEET-CODE/tree/master/0112-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
