@@ -27,6 +27,7 @@
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/chirukori/LEET-CODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -173,6 +174,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/chirukori/LEET-CODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/chirukori/LEET-CODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
