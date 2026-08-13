@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirukori/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/chirukori/LEET-CODE/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/chirukori/LEET-CODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/chirukori/LEET-CODE/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
