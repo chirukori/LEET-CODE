@@ -6,6 +6,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/chirukori/LEET-CODE/tree/master/0086-partition-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/chirukori/LEET-CODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
