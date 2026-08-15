@@ -11,12 +11,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chirukori/LEET-CODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/chirukori/LEET-CODE/tree/master/0086-partition-list) |
 | [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chirukori/LEET-CODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chirukori/LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
@@ -242,6 +244,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chirukori/LEET-CODE/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
