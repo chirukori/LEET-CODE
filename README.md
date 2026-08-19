@@ -7,6 +7,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/chirukori/LEET-CODE/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chirukori/LEET-CODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/chirukori/LEET-CODE/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@
 | [0076-minimum-window-substring](https://github.com/chirukori/LEET-CODE/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/chirukori/LEET-CODE/tree/master/0299-bulls-and-cows) |
+| [0355-design-twitter](https://github.com/chirukori/LEET-CODE/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirukori/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
@@ -94,6 +96,7 @@
 | [0155-min-stack](https://github.com/chirukori/LEET-CODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/chirukori/LEET-CODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chirukori/LEET-CODE/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/chirukori/LEET-CODE/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/chirukori/LEET-CODE/tree/master/0901-online-stock-span) |
 ## Queue
@@ -143,6 +146,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/chirukori/LEET-CODE/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/chirukori/LEET-CODE/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
