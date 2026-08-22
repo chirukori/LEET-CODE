@@ -203,6 +203,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chirukori/LEET-CODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chirukori/LEET-CODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
 |  |
 | ------- |
