@@ -58,6 +58,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/chirukori/LEET-CODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0791-custom-sort-string](https://github.com/chirukori/LEET-CODE/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/chirukori/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chirukori/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -122,6 +123,7 @@
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirukori/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/chirukori/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
+| [0791-custom-sort-string](https://github.com/chirukori/LEET-CODE/tree/master/0791-custom-sort-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chirukori/LEET-CODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -261,6 +263,7 @@
 | [0049-group-anagrams](https://github.com/chirukori/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chirukori/LEET-CODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
+| [0791-custom-sort-string](https://github.com/chirukori/LEET-CODE/tree/master/0791-custom-sort-string) |
 ## Counting Sort
 |  |
 | ------- |
