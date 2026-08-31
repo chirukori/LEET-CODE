@@ -32,6 +32,7 @@
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chirukori/LEET-CODE/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
@@ -58,6 +59,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/chirukori/LEET-CODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0460-lfu-cache](https://github.com/chirukori/LEET-CODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/chirukori/LEET-CODE/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/chirukori/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/chirukori/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
@@ -154,6 +157,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/chirukori/LEET-CODE/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/chirukori/LEET-CODE/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -227,6 +231,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/chirukori/LEET-CODE/tree/master/0299-bulls-and-cows) |
+| [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chirukori/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Tree
 |  |
@@ -267,6 +272,7 @@
 | [0049-group-anagrams](https://github.com/chirukori/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chirukori/LEET-CODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/chirukori/LEET-CODE/tree/master/0791-custom-sort-string) |
 ## Counting Sort
 |  |
