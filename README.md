@@ -28,6 +28,7 @@
 | [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
 | [0228-summary-ranges](https://github.com/chirukori/LEET-CODE/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/chirukori/LEET-CODE/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chirukori/LEET-CODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chirukori/LEET-CODE/tree/master/0503-next-greater-element-ii) |
@@ -55,6 +56,7 @@
 | [0076-minimum-window-substring](https://github.com/chirukori/LEET-CODE/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/chirukori/LEET-CODE/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/chirukori/LEET-CODE/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirukori/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chirukori/LEET-CODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -154,11 +156,13 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chirukori/LEET-CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/chirukori/LEET-CODE/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/chirukori/LEET-CODE/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 ## Merge Sort
@@ -234,6 +238,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/chirukori/LEET-CODE/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chirukori/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Tree
@@ -273,6 +278,7 @@
 | ------- |
 | [0015-3sum](https://github.com/chirukori/LEET-CODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/chirukori/LEET-CODE/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chirukori/LEET-CODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
@@ -282,4 +288,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
