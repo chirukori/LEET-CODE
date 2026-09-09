@@ -38,6 +38,7 @@
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/chirukori/LEET-CODE/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/chirukori/LEET-CODE/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/chirukori/LEET-CODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/chirukori/LEET-CODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/chirukori/LEET-CODE/tree/master/0904-fruit-into-baskets) |
@@ -155,6 +156,7 @@
 | [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/chirukori/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/chirukori/LEET-CODE/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/chirukori/LEET-CODE/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/chirukori/LEET-CODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Divide and Conquer
 |  |
