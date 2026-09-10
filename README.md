@@ -86,6 +86,7 @@
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/chirukori/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chirukori/LEET-CODE/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/chirukori/LEET-CODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/chirukori/LEET-CODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chirukori/LEET-CODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/chirukori/LEET-CODE/tree/master/0901-online-stock-span) |
@@ -132,6 +133,7 @@
 | [0299-bulls-and-cows](https://github.com/chirukori/LEET-CODE/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirukori/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/chirukori/LEET-CODE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/chirukori/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/chirukori/LEET-CODE/tree/master/0791-custom-sort-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chirukori/LEET-CODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -141,6 +143,7 @@
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
+| [0678-valid-parenthesis-string](https://github.com/chirukori/LEET-CODE/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -154,6 +157,7 @@
 | [0402-remove-k-digits](https://github.com/chirukori/LEET-CODE/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/chirukori/LEET-CODE/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/chirukori/LEET-CODE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/chirukori/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/chirukori/LEET-CODE/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/chirukori/LEET-CODE/tree/master/0860-lemonade-change) |
@@ -311,4 +315,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chirukori/LEET-CODE/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/chirukori/LEET-CODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
