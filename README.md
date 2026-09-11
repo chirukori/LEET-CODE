@@ -24,6 +24,7 @@
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/chirukori/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/chirukori/LEET-CODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/chirukori/LEET-CODE/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chirukori/LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0015-3sum](https://github.com/chirukori/LEET-CODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/chirukori/LEET-CODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/chirukori/LEET-CODE/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/chirukori/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chirukori/LEET-CODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/chirukori/LEET-CODE/tree/master/0561-array-partition) |
@@ -322,4 +324,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chirukori/LEET-CODE/tree/master/0678-valid-parenthesis-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/chirukori/LEET-CODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
