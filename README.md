@@ -25,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/chirukori/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/chirukori/LEET-CODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/chirukori/LEET-CODE/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/chirukori/LEET-CODE/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chirukori/LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/chirukori/LEET-CODE/tree/master/0139-word-break) |
