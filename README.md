@@ -84,6 +84,7 @@
 | [0071-simplify-path](https://github.com/chirukori/LEET-CODE/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chirukori/LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/chirukori/LEET-CODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/chirukori/LEET-CODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chirukori/LEET-CODE/tree/master/0232-implement-queue-using-stacks) |
@@ -266,12 +267,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/chirukori/LEET-CODE/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/chirukori/LEET-CODE/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chirukori/LEET-CODE/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/chirukori/LEET-CODE/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/chirukori/LEET-CODE/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/chirukori/LEET-CODE/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/chirukori/LEET-CODE/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chirukori/LEET-CODE/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
