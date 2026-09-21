@@ -54,6 +54,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/chirukori/LEET-CODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chirukori/LEET-CODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/chirukori/LEET-CODE/tree/master/2104-sum-of-subarray-ranges) |
+| [3524-find-x-value-of-array-i](https://github.com/chirukori/LEET-CODE/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0678-valid-parenthesis-string](https://github.com/chirukori/LEET-CODE/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/chirukori/LEET-CODE/tree/master/0907-sum-of-subarray-minimums) |
+| [3524-find-x-value-of-array-i](https://github.com/chirukori/LEET-CODE/tree/master/3524-find-x-value-of-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/chirukori/LEET-CODE/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chirukori/LEET-CODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [3524-find-x-value-of-array-i](https://github.com/chirukori/LEET-CODE/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chirukori/LEET-CODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
 |  |
