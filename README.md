@@ -135,6 +135,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirukori/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/chirukori/LEET-CODE/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/chirukori/LEET-CODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/chirukori/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/chirukori/LEET-CODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/chirukori/LEET-CODE/tree/master/0076-minimum-window-substring) |
@@ -149,6 +150,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chirukori/LEET-CODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chirukori/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/chirukori/LEET-CODE/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/chirukori/LEET-CODE/tree/master/0085-maximal-rectangle) |
@@ -352,9 +354,14 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chirukori/LEET-CODE/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chirukori/LEET-CODE/tree/master/0678-valid-parenthesis-string) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/chirukori/LEET-CODE/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/chirukori/LEET-CODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
