@@ -282,6 +282,7 @@
 | [0112-path-sum](https://github.com/chirukori/LEET-CODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/chirukori/LEET-CODE/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chirukori/LEET-CODE/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -293,6 +294,7 @@
 | [0112-path-sum](https://github.com/chirukori/LEET-CODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/chirukori/LEET-CODE/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 | [0112-path-sum](https://github.com/chirukori/LEET-CODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chirukori/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/chirukori/LEET-CODE/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chirukori/LEET-CODE/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
@@ -367,4 +370,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chirukori/LEET-CODE/tree/master/0022-generate-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chirukori/LEET-CODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
